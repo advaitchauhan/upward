@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Upwards</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+		<!-- Header -->
+			<section id="header" class="dark">
+				<header>
+					<img style = "width: 300px;" src = "images/logo.png">
+					<p> Let's Revolutionize Worldwide Development</p>
+				</header>
+				<footer>
+					<a href="#first" class="button scrolly">How?</a>
+				</footer>
+			</section>
+
+		<!-- First -->
+			<section id="first" class="main">
+				<header>
+					<div class="container">
+						<h2>Upwards crowdsources and clusters data to elicit more effective policymaking and development efforts </h2>
+
+						<p>	
+						Upwards brings together data from around the world on past and ongoing developmental efforts of all types and scopes. Upwards then performs state of the art machine learning algorithms to uncover latent structures and similarities between these efforts. With this knowledge base of past experience and insight, local leaders, policymakers, and changemakers can be much more successful in solving the developental problems at hand. </p>
+					</div>
+				</header>
+				<div class="content dark style1 featured">
+					<div class="container">
+						<h1 style = "font-size: 20px; text-align: center;"> </h1>
+						<div class="row">
+							<div class="4u 12u(narrow)">
+								<section>
+									<span class="feature-icon"><span class="icon fa-line-chart"></span></span>
+									<header>
+										<h3>Learn</h3>
+									</header>
+									<p> Get data about both completed and ongoing efforts similar to the one you are working on. We use clustering algorithms to find projects that worked on a similar task and occured in the closest developmental initial context (economic state, population level, social capital, etc) to your own. e Learn what made projects similar successful</p>
+								</section>
+							</div>
+							<div class="4u 12u(narrow)">
+								<section>
+									<span class="feature-icon"><span class="icon fa-bolt"></span></span>
+									<header>
+										<h3>Share</h3>
+									</header>
+									<p> Share data and details about a developmental effort you are involved it so that other people can make use of experience and reach out to you. In doing so, you open up your project to recieve feedback and experience from Upwards users, and also gain the ability to access premium data sources and analysis </p>
+								</section>
+							</div>
+							<div class="4u 12u(narrow)">
+								<section>
+									<span class="feature-icon"><img style = "width: 300px;" src = "images/get-involved-top.png"></span>
+									<header>
+										<h3>Get Involved</h3>
+									</header>
+									<p>Find ongoing developmental projects nearby your location which you can contribute to, or find people who can contribute to your own effort. Scholars from across the world can provide guidance and insight on niche developmental efforts</p>
+								</section>
+							</div>
+						</div>
+						<div class="row">
+							<div class="12u">
+								<footer>
+									<a href="#second" class="button scrolly">Learn more about the concept</a>
+								</footer>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Second -->
+			<section id="second" class="main">
+				<div class="content dark style3">
+					<div class="container">
+<!-- 						<span class="image featured"><img src="images/dev1.jpg" alt="" /></span> -->
+						<div class="row">
+							<!-- <div class="4u 12u(narrow)"> -->
+								<h2>  
+							<p style = "text-align: center"> In a village in Northern Tanzania, a small internationally based NGO leads the development of a community-based irrigation solution by working with farmers that will allow ample and equitable water distribution. Meanwhile in the Sarawak district of Malaysia, a bureaucratic officer looks for ways to reform the tax department so that citizens might regain faith in the tax officers and pay taxes voluntarily. In India, a cabinet minister of the state of Gujarat is trying to figure out economic policies that will attract foreign capital investment while creating safeguards against extractive corporations and capital volatility. </p>
+						
+							<p style = "text-align: center">
+							All the nations of the world, thousands of provincial districts, tens of thousands of small towns, have collectively tried out hundreds of thousands of policies and implementation efforts for achieving various socioeconomic development goals. These efforts, originating both from within and outside the government, range from infrastructure development to the education of women, with each one leading to unique results. </p>
+
+							<p style = "text-align: center">
+		 					It’s time to bring this data together, so that change-makers spread across the world can learn from each other and have access to real data on what works and what doesn’t.  By bringing together the insights and wisdom of developmental efforts into one platform and uncovering latent similarities in this data through statistical analysis, we can help leaders and change-makers make better decisions that are more likely to engender positive change. 
+		 					 </p>
+		 				</div>
+					</div>
+				</div>
+			</section>
+
+
+		<!-- Footer -->
+			<section id="footer">
+				<h2> About Me </h2>
+				<p style = "text-align: center"> Advait is a sophomore at Princeton University, majoring in computer science but highly interested in economic development. He is exciting to be developing this application for the European Innovation Academy</p>
+				<ul class="icons">
+					<a data-toggle="tooltip" title="Email Me!" href="mailto:achauhan@princeton.edu"><i class="fa fa-envelope"></i></a>
+                	<a data-toggle="tooltip" title="Check out my Projects!" href=https://github.com/advaitchauhan/><i class="fa fa-github"></i></a>
+                	<a data-toggle="tooltip" title="LinkedIn" href=https://www.linkedin.com/pub/advait-chauhan/90/4a0/4a8><i class="fa fa-linkedin"></i></a>
+				</ul>
+<!-- 				<div class="copyright">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div> -->
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
